@@ -1,0 +1,9 @@
+a = float(input("Value A: "))# input a float value for variable a here
+b = float(input("Value B: "))# input a float value for variable b here
+
+print("A + B = " + str(a + b))# output the result of addition here
+print("A - B = " + str(a-b))# output the result of subtraction here
+print("A * B = " + str(a*b))# output the result of multiplication here
+print("A / B = " + str(a/b))# output the result of division here
+
+print("\nThat's all, folks!")
